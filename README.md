@@ -19,5 +19,4 @@ http://spatialreference.org/
 
 
 Careli Caballero
-MSc Geo-information Science# Mosaic_LIDAR_INEGI
-"# Mosaic_LIDAR_INEGI" 
+MSc Geo-information Science
